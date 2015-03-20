@@ -1,0 +1,6 @@
+[commands/updategeoip]
+access = read : [ * ], write : [ power ]
+export = none
+owner = nobody
+version = 6.2.2
+modtime = 1426465672.353481000
