@@ -5,7 +5,7 @@ Email: george@georgestarcher.com
 
 #Description:
 
-The Splunk Add-on TA-geoip is just a rough TA to make a Splunk server download the database used by the iplocation command monthly.
+The Splunk Add-on TA-geoip is just a rough TA to make a Splunk server monthly download the database used by the iplocation command.
 It currently is coded for just a linux server. It could use a good bit of polish but it is usable.
 
 
