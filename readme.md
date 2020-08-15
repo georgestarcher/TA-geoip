@@ -3,7 +3,7 @@
 Author: George Starcher (starcher)
 Email: george@georgestarcher.com
 
-#Description:
+# Description:
 
 The Splunk Add-on TA-geoip is just container TA to house a downloaded update of the database used by the iplocation command.
 The configuration tells Splunk to use the file in the TA-geoip/bin location and to blacklist the mmdb file from replication to keep it out of the search bundle.
