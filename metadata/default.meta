@@ -1,5 +1,5 @@
 # Application-level permissions
 
 []
-access = read: [ * ], write : [ power ]
+access = read: [ * ], write : [ admin,power ]
 
